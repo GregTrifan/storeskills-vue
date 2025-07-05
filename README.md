@@ -75,3 +75,4 @@ npm run preview
   - Complex components are only decomposed when it improves readability or reusability
   - Some views contain inline logic when decomposition wouldn't add value to maintainability
   - Composition API is used consistently for better logic organization
+- **UI**: Rapidly developed with functionality as the primary focus. Future iterations may enhance the design and user experience.
